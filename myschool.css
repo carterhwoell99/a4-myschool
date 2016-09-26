@@ -1,0 +1,28 @@
+#bannerpic {
+
+	float: right;
+	margin: 15 px;
+	border-style: ridge;
+	border-width: 10px;
+	background-color: red;
+	
+}
+
+.clearfloat {
+	clear: both;
+
+}
+
+#banner {
+	
+	margin-left:25px;
+	margin-right:50px;
+}
+
+#aboutme {
+	background-color: green;
+}
+
+.head {
+	background-color: green;
+}
